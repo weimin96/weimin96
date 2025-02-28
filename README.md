@@ -6,7 +6,15 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm weimin, welcome here!&#162;er=true&size=27" />
     </a>
   </div>
- 
+</div>
+
+
+ - <img src="https://www.wiblog.cn/favicon.ico" width="16" alt="wiblog.cn"/> 个人网站 [https://www.wiblog.cn](https://www.wiblog.cn)
+- 📫 [Java 高级面试笔记](https://www.wiblog.cn/interview/java)
+- ⬆️ [Java版设计模式详解](https://www.wiblog.cn/interview/design-patterns)
+
+
+<div align="center">
   <!-- knock code pictures 敲代码的图片 -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
