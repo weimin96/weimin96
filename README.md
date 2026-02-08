@@ -1,13 +1,3 @@
-<div align="center">
- 
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div>
-    <a href="http://sue.sparkflare.cn/views/personal-introduction.html">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm weimin, welcome here!&#162;er=true&size=27" />
-    </a>
-  </div>
-</div>
-
 
  - <img src="https://www.wiblog.cn/favicon.ico" width="16" alt="wiblog.cn"/> 个人网站 [https://www.wiblog.cn](https://www.wiblog.cn)
 - 📫 [Java 高级面试笔记](https://www.wiblog.cn/interview/java)
