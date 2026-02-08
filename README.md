@@ -33,6 +33,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=weimin96&theme=xcode&bg_color=FF000000&color=000000&hide_border=true" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=weimin96&theme=xcode&bg_color=FF000000&hide_border=true" />
 </picture>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=weimin96&show_icons=true&include_all_commits=true&hide_border=true" alt="weimin's github stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=weimin96&layout=compact&theme=buefy&hide_border=true" />
-</div>
