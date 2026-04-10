@@ -1,8 +1,4 @@
 
- - <img src="https://www.wiblog.cn/favicon.ico" width="16" alt="wiblog.cn"/> 个人网站 [https://www.wiblog.cn](https://www.wiblog.cn)
-- 📫 [Java 高级面试笔记](https://www.wiblog.cn/interview/java)
-- ⬆️ [Java版设计模式详解](https://www.wiblog.cn/interview/design-patterns)
-
 
 <div align="center">
   <!-- knock code pictures 敲代码的图片 -->
