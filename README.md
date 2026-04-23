@@ -1,13 +1,6 @@
 
 
 <div align="center">
-  <!-- knock code pictures 敲代码的图片 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/developer.svg" height="225px" />
-    <img src="https://cdn.jsdelivr.net/gh/buptsdz/buptsdz/assets/images/coding.gif" />
-  </picture>
-
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weimin96/weimin96/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/weimin96/weimin96/output/github-contribution-grid-snake.svg">
